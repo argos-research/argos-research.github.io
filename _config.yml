@@ -3,7 +3,7 @@ title: ArgOS Research
 header-img: img/home-bg.jpg
 #email: your-email@yourdomain.com
 copyright_name: ArgOS Research
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "An Open Source Hardware-in-the-loop (HIL) Simulation Testbed"
 baseurl: "/"
 url: "https://argos-research.github.io"
 #twitter_username: SBootstrap
