@@ -1,9 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "This is what I do."
+description: ""
 header-img: "img/about-bg.jpg"
 ---
+
+A research project created and maintained at the Chair of Operating Systems - Technical University of Munich (TUM) [homepage](https://www.os.in.tum.de/en/home/)
 
 ### Maintainer
 
