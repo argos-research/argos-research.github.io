@@ -3,8 +3,6 @@ layout:     post
 title:      "The dreams of yesterday are the hopes of today and the reality of tomorrow."
 date:       2014-07-01 12:00:00
 author:     "Start Bootstrap"
-img:        "post-sample-image.jpg"
 header-img: "img/post-bg-02.jpg"
 ---
 
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
