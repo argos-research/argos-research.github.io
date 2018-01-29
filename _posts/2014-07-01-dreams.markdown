@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The dreams of yesterday are the hopes of today and the reality of tomorrow."
+title:      "Welcome to the ArgOS Research Project Website"
 date:       2014-07-01 12:00:00
 author:     "Start Bootstrap"
 header-img: "img/post-bg-02.jpg"
